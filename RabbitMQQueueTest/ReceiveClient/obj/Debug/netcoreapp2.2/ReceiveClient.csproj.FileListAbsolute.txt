@@ -12,3 +12,17 @@ C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClient\obj\Debug\net
 C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClient\obj\Debug\netcoreapp2.2\ReceiveClient.pdb
 C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClient\bin\Debug\netcoreapp2.2\RabbitMQQueueCommon.dll
 C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClient\bin\Debug\netcoreapp2.2\RabbitMQQueueCommon.pdb
+F:\github\RabbitMQTest\RabbitMQQueueTest\ReceiveClient\bin\Debug\netcoreapp2.2\ReceiveClient.deps.json
+F:\github\RabbitMQTest\RabbitMQQueueTest\ReceiveClient\bin\Debug\netcoreapp2.2\ReceiveClient.runtimeconfig.json
+F:\github\RabbitMQTest\RabbitMQQueueTest\ReceiveClient\bin\Debug\netcoreapp2.2\ReceiveClient.runtimeconfig.dev.json
+F:\github\RabbitMQTest\RabbitMQQueueTest\ReceiveClient\bin\Debug\netcoreapp2.2\ReceiveClient.dll
+F:\github\RabbitMQTest\RabbitMQQueueTest\ReceiveClient\bin\Debug\netcoreapp2.2\ReceiveClient.pdb
+F:\github\RabbitMQTest\RabbitMQQueueTest\ReceiveClient\bin\Debug\netcoreapp2.2\RabbitMQQueueCommon.dll
+F:\github\RabbitMQTest\RabbitMQQueueTest\ReceiveClient\bin\Debug\netcoreapp2.2\RabbitMQQueueCommon.pdb
+F:\github\RabbitMQTest\RabbitMQQueueTest\ReceiveClient\obj\Debug\netcoreapp2.2\ReceiveClient.csprojAssemblyReference.cache
+F:\github\RabbitMQTest\RabbitMQQueueTest\ReceiveClient\obj\Debug\netcoreapp2.2\ReceiveClient.csproj.CoreCompileInputs.cache
+F:\github\RabbitMQTest\RabbitMQQueueTest\ReceiveClient\obj\Debug\netcoreapp2.2\ReceiveClient.AssemblyInfoInputs.cache
+F:\github\RabbitMQTest\RabbitMQQueueTest\ReceiveClient\obj\Debug\netcoreapp2.2\ReceiveClient.AssemblyInfo.cs
+F:\github\RabbitMQTest\RabbitMQQueueTest\ReceiveClient\obj\Debug\netcoreapp2.2\ReceiveClient.csproj.CopyComplete
+F:\github\RabbitMQTest\RabbitMQQueueTest\ReceiveClient\obj\Debug\netcoreapp2.2\ReceiveClient.dll
+F:\github\RabbitMQTest\RabbitMQQueueTest\ReceiveClient\obj\Debug\netcoreapp2.2\ReceiveClient.pdb

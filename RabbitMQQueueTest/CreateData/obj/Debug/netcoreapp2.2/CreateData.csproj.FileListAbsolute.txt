@@ -9,3 +9,14 @@ C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\obj\Debug\netcor
 C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.AssemblyInfo.cs
 C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.dll
 C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.pdb
+F:\github\RabbitMQTest\RabbitMQQueueTest\CreateData\bin\Debug\netcoreapp2.2\CreateData.deps.json
+F:\github\RabbitMQTest\RabbitMQQueueTest\CreateData\bin\Debug\netcoreapp2.2\CreateData.runtimeconfig.json
+F:\github\RabbitMQTest\RabbitMQQueueTest\CreateData\bin\Debug\netcoreapp2.2\CreateData.runtimeconfig.dev.json
+F:\github\RabbitMQTest\RabbitMQQueueTest\CreateData\bin\Debug\netcoreapp2.2\CreateData.dll
+F:\github\RabbitMQTest\RabbitMQQueueTest\CreateData\bin\Debug\netcoreapp2.2\CreateData.pdb
+F:\github\RabbitMQTest\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.csprojAssemblyReference.cache
+F:\github\RabbitMQTest\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.csproj.CoreCompileInputs.cache
+F:\github\RabbitMQTest\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.AssemblyInfoInputs.cache
+F:\github\RabbitMQTest\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.AssemblyInfo.cs
+F:\github\RabbitMQTest\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.dll
+F:\github\RabbitMQTest\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.pdb

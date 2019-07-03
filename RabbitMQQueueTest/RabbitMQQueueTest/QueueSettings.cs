@@ -9,8 +9,20 @@ namespace RabbitMQQueueTest
 {
     public static class QueueSettings
     {
+        /// <summary>
+        /// 默认队列名称
+        /// </summary>
         public const string QueueName = "queue_test";
 
+        /// <summary>
+        /// 队列容量限制
+        /// </summary>
+        public static readonly Dictionary<string, object> Args = new Dictionary<string, object>() {
+                        { "x-max-length",2},
+                        { "x-max-length-bytes",1024}
+                    };
+
+        //创建一个连接
         public static IConnectionFactory GetConnectionFactory()
         {
             return new ConnectionFactory//创建连接工厂对象
@@ -36,14 +48,14 @@ namespace RabbitMQQueueTest
                 {
 
                     var queueName = QueueSettings.QueueName;
-
+                    
                     //声明一个队列
                     channel.QueueDeclare(
                       queue: queueName,//消息队列名称
                       durable: true,//队列持久化
                       exclusive: false,
                       autoDelete: false,
-                      arguments: null);
+                      arguments: QueueSettings.Args);
 
                     //设置消息持久化
                     var props = channel.CreateBasicProperties();
@@ -78,13 +90,14 @@ namespace RabbitMQQueueTest
             {
                 using (IModel channel = conn.CreateModel())
                 {
-                    var queueName = QueueSettings.QueueName;
+                    var queueName = QueueSettings.QueueName;                   
+
                     channel.QueueDeclare(
                       queue: queueName,//消息队列名称
                       durable: true,//队列持久化
                       exclusive: false,
                       autoDelete: false,
-                      arguments: null);
+                      arguments: QueueSettings.Args);
 
                     //预读
                     channel.BasicQos(0, 1, false);

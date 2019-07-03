@@ -16,7 +16,7 @@ namespace CreateData
             stopwatch.Start(); //  开始监视代码运行时间
             for (int i = 0; i < 100000000; i++)
             {
-                streamWriter.WriteLine(string.Format(template, "54882701760545792", "1", "1", "18180653097", "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十", DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")));
+                streamWriter.WriteLine(string.Format(template, i, "1", "1", "18180653097", "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十", DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")));
             }
             stopwatch.Stop();
             streamWriter.Close();

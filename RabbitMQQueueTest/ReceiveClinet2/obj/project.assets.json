@@ -4301,11 +4301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Honasoft-YGD\\source\\repos\\RabbitMQQueueTest\\ReceiveClinet2\\ReceiveClinet2.csproj",
+      "projectUniqueName": "F:\\github\\RabbitMQTest\\RabbitMQQueueTest\\ReceiveClinet2\\ReceiveClinet2.csproj",
       "projectName": "ReceiveClinet2",
-      "projectPath": "C:\\Users\\Honasoft-YGD\\source\\repos\\RabbitMQQueueTest\\ReceiveClinet2\\ReceiveClinet2.csproj",
+      "projectPath": "F:\\github\\RabbitMQTest\\RabbitMQQueueTest\\ReceiveClinet2\\ReceiveClinet2.csproj",
       "packagesPath": "C:\\Users\\Honasoft-YGD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Honasoft-YGD\\source\\repos\\RabbitMQQueueTest\\ReceiveClinet2\\obj\\",
+      "outputPath": "F:\\github\\RabbitMQTest\\RabbitMQQueueTest\\ReceiveClinet2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4325,8 +4325,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Honasoft-YGD\\source\\repos\\RabbitMQQueueTest\\RabbitMQQueueTest\\RabbitMQQueueCommon.csproj": {
-              "projectPath": "C:\\Users\\Honasoft-YGD\\source\\repos\\RabbitMQQueueTest\\RabbitMQQueueTest\\RabbitMQQueueCommon.csproj"
+            "F:\\github\\RabbitMQTest\\RabbitMQQueueTest\\RabbitMQQueueTest\\RabbitMQQueueCommon.csproj": {
+              "projectPath": "F:\\github\\RabbitMQTest\\RabbitMQQueueTest\\RabbitMQQueueTest\\RabbitMQQueueCommon.csproj"
             }
           }
         }

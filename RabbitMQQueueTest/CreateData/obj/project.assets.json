@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Honasoft-YGD\\source\\repos\\RabbitMQQueueTest\\CreateData\\CreateData.csproj",
+      "projectUniqueName": "F:\\github\\RabbitMQTest\\RabbitMQQueueTest\\CreateData\\CreateData.csproj",
       "projectName": "CreateData",
-      "projectPath": "C:\\Users\\Honasoft-YGD\\source\\repos\\RabbitMQQueueTest\\CreateData\\CreateData.csproj",
+      "projectPath": "F:\\github\\RabbitMQTest\\RabbitMQQueueTest\\CreateData\\CreateData.csproj",
       "packagesPath": "C:\\Users\\Honasoft-YGD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Honasoft-YGD\\source\\repos\\RabbitMQQueueTest\\CreateData\\obj\\",
+      "outputPath": "F:\\github\\RabbitMQTest\\RabbitMQQueueTest\\CreateData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
