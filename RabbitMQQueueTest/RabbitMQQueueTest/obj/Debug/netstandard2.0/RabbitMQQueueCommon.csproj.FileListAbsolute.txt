@@ -1,0 +1,9 @@
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\RabbitMQQueueTest\bin\Debug\netstandard2.0\RabbitMQQueueCommon.deps.json
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\RabbitMQQueueTest\bin\Debug\netstandard2.0\RabbitMQQueueCommon.dll
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\RabbitMQQueueTest\bin\Debug\netstandard2.0\RabbitMQQueueCommon.pdb
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\RabbitMQQueueTest\obj\Debug\netstandard2.0\RabbitMQQueueCommon.csprojAssemblyReference.cache
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\RabbitMQQueueTest\obj\Debug\netstandard2.0\RabbitMQQueueCommon.csproj.CoreCompileInputs.cache
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\RabbitMQQueueTest\obj\Debug\netstandard2.0\RabbitMQQueueCommon.AssemblyInfoInputs.cache
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\RabbitMQQueueTest\obj\Debug\netstandard2.0\RabbitMQQueueCommon.AssemblyInfo.cs
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\RabbitMQQueueTest\obj\Debug\netstandard2.0\RabbitMQQueueCommon.dll
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\RabbitMQQueueTest\obj\Debug\netstandard2.0\RabbitMQQueueCommon.pdb

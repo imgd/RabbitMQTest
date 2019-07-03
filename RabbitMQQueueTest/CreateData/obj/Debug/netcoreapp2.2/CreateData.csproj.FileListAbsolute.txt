@@ -1,0 +1,11 @@
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\bin\Debug\netcoreapp2.2\CreateData.deps.json
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\bin\Debug\netcoreapp2.2\CreateData.runtimeconfig.json
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\bin\Debug\netcoreapp2.2\CreateData.runtimeconfig.dev.json
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\bin\Debug\netcoreapp2.2\CreateData.dll
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\bin\Debug\netcoreapp2.2\CreateData.pdb
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.csprojAssemblyReference.cache
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.csproj.CoreCompileInputs.cache
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.AssemblyInfoInputs.cache
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.AssemblyInfo.cs
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.dll
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\CreateData\obj\Debug\netcoreapp2.2\CreateData.pdb

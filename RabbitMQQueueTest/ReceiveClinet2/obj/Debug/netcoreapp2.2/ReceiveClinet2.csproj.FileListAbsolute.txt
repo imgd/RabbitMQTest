@@ -1,0 +1,14 @@
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClinet2\bin\Debug\netcoreapp2.2\ReceiveClinet2.deps.json
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClinet2\bin\Debug\netcoreapp2.2\ReceiveClinet2.runtimeconfig.json
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClinet2\bin\Debug\netcoreapp2.2\ReceiveClinet2.runtimeconfig.dev.json
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClinet2\bin\Debug\netcoreapp2.2\ReceiveClinet2.dll
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClinet2\obj\Debug\netcoreapp2.2\ReceiveClinet2.csprojAssemblyReference.cache
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClinet2\obj\Debug\netcoreapp2.2\ReceiveClinet2.csproj.CoreCompileInputs.cache
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClinet2\obj\Debug\netcoreapp2.2\ReceiveClinet2.AssemblyInfoInputs.cache
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClinet2\obj\Debug\netcoreapp2.2\ReceiveClinet2.AssemblyInfo.cs
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClinet2\obj\Debug\netcoreapp2.2\ReceiveClinet2.csproj.CopyComplete
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClinet2\bin\Debug\netcoreapp2.2\ReceiveClinet2.pdb
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClinet2\obj\Debug\netcoreapp2.2\ReceiveClinet2.dll
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClinet2\obj\Debug\netcoreapp2.2\ReceiveClinet2.pdb
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClinet2\bin\Debug\netcoreapp2.2\RabbitMQQueueCommon.dll
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\ReceiveClinet2\bin\Debug\netcoreapp2.2\RabbitMQQueueCommon.pdb

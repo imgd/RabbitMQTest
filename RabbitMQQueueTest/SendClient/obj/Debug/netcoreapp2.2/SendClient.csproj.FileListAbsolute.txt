@@ -1,0 +1,14 @@
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\SendClient\bin\Debug\netcoreapp2.2\SendClient.deps.json
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\SendClient\bin\Debug\netcoreapp2.2\SendClient.runtimeconfig.json
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\SendClient\bin\Debug\netcoreapp2.2\SendClient.runtimeconfig.dev.json
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\SendClient\bin\Debug\netcoreapp2.2\SendClient.dll
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\SendClient\obj\Debug\netcoreapp2.2\SendClient.csprojAssemblyReference.cache
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\SendClient\obj\Debug\netcoreapp2.2\SendClient.csproj.CoreCompileInputs.cache
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\SendClient\obj\Debug\netcoreapp2.2\SendClient.AssemblyInfoInputs.cache
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\SendClient\obj\Debug\netcoreapp2.2\SendClient.AssemblyInfo.cs
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\SendClient\bin\Debug\netcoreapp2.2\SendClient.pdb
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\SendClient\obj\Debug\netcoreapp2.2\SendClient.csproj.CopyComplete
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\SendClient\obj\Debug\netcoreapp2.2\SendClient.dll
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\SendClient\obj\Debug\netcoreapp2.2\SendClient.pdb
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\SendClient\bin\Debug\netcoreapp2.2\RabbitMQQueueCommon.dll
+C:\Users\Honasoft-YGD\source\repos\RabbitMQQueueTest\SendClient\bin\Debug\netcoreapp2.2\RabbitMQQueueCommon.pdb
