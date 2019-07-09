@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQPush", "RabbitMQTest\RabbitMQPush.csproj", "{C10B97C7-128C-4BD6-BC2A-E9B3380F6C43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQReceive", "RabbitMQReceive\RabbitMQReceive.csproj", "{0443E0A6-37F0-4BB0-80E3-538BB7DFA5B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{01B11F8C-B563-46C8-9786-18430228C40A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDTest", "IDTest\IDTest.csproj", "{C52252A4-9A6B-4812-B998-0E0FDE028DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaPush", "KafkaPush\KafkaPush.csproj", "{538A0676-C8AE-43D0-9779-7532B4B384A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaReceive", "KafkaReceive\KafkaReceive.csproj", "{36B311B5-7EF8-4995-BE9A-D62C7E670F11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQMonitor", "RabbitMQMonitor\RabbitMQMonitor.csproj", "{9E2FEE06-C89F-4339-B4E4-A5FA2F6A6F87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C10B97C7-128C-4BD6-BC2A-E9B3380F6C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10B97C7-128C-4BD6-BC2A-E9B3380F6C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10B97C7-128C-4BD6-BC2A-E9B3380F6C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10B97C7-128C-4BD6-BC2A-E9B3380F6C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0443E0A6-37F0-4BB0-80E3-538BB7DFA5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0443E0A6-37F0-4BB0-80E3-538BB7DFA5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0443E0A6-37F0-4BB0-80E3-538BB7DFA5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0443E0A6-37F0-4BB0-80E3-538BB7DFA5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B11F8C-B563-46C8-9786-18430228C40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B11F8C-B563-46C8-9786-18430228C40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B11F8C-B563-46C8-9786-18430228C40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B11F8C-B563-46C8-9786-18430228C40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C52252A4-9A6B-4812-B998-0E0FDE028DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52252A4-9A6B-4812-B998-0E0FDE028DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52252A4-9A6B-4812-B998-0E0FDE028DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52252A4-9A6B-4812-B998-0E0FDE028DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538A0676-C8AE-43D0-9779-7532B4B384A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538A0676-C8AE-43D0-9779-7532B4B384A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538A0676-C8AE-43D0-9779-7532B4B384A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538A0676-C8AE-43D0-9779-7532B4B384A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B311B5-7EF8-4995-BE9A-D62C7E670F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B311B5-7EF8-4995-BE9A-D62C7E670F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B311B5-7EF8-4995-BE9A-D62C7E670F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B311B5-7EF8-4995-BE9A-D62C7E670F11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E2FEE06-C89F-4339-B4E4-A5FA2F6A6F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2FEE06-C89F-4339-B4E4-A5FA2F6A6F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2FEE06-C89F-4339-B4E4-A5FA2F6A6F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2FEE06-C89F-4339-B4E4-A5FA2F6A6F87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67B24572-F5AC-461F-923A-EC522DBBEEF3}
+	EndGlobalSection
+EndGlobal

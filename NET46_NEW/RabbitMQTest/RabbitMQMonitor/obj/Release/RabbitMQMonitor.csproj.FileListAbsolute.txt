@@ -1,0 +1,10 @@
+C:\Users\Honasoft-YGD\source\repos\RabbitMQTest\RabbitMQMonitor\bin\Release\RabbitMQMonitor.exe.config
+C:\Users\Honasoft-YGD\source\repos\RabbitMQTest\RabbitMQMonitor\bin\Release\RabbitMQMonitor.exe
+C:\Users\Honasoft-YGD\source\repos\RabbitMQTest\RabbitMQMonitor\bin\Release\RabbitMQMonitor.pdb
+C:\Users\Honasoft-YGD\source\repos\RabbitMQTest\RabbitMQMonitor\obj\Release\RabbitMQMonitor.Properties.Resources.resources
+C:\Users\Honasoft-YGD\source\repos\RabbitMQTest\RabbitMQMonitor\obj\Release\RabbitMQMonitor.csproj.GenerateResource.cache
+C:\Users\Honasoft-YGD\source\repos\RabbitMQTest\RabbitMQMonitor\obj\Release\RabbitMQMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Honasoft-YGD\source\repos\RabbitMQTest\RabbitMQMonitor\obj\Release\RabbitMQMonitor.exe
+C:\Users\Honasoft-YGD\source\repos\RabbitMQTest\RabbitMQMonitor\obj\Release\RabbitMQMonitor.pdb
+C:\Users\Honasoft-YGD\source\repos\RabbitMQTest\RabbitMQMonitor\obj\Release\RabbitMQMonitor.Settings.resources
+C:\Users\Honasoft-YGD\source\repos\RabbitMQTest\RabbitMQMonitor\obj\Release\RabbitMQMonitor.Main.resources
